@@ -2,11 +2,6 @@
 
 <h1> Bia Verly</h1>
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
